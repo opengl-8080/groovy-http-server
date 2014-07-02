@@ -1,1 +1,1 @@
-@groovy %~dp0http.groovy
+@groovy %~dp0http.groovy %*
